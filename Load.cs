@@ -4,7 +4,7 @@ using System.Linq;
 using UnityEngine;
 
 /// <summary>
-/// Resourceから読み込む拡張メソッド
+/// ResourceからSpriteを読み込む拡張メソッド
 /// </summary>
 public class Load : MonoBehaviour
 {
